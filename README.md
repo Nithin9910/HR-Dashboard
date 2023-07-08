@@ -1,11 +1,11 @@
 ﻿
-\# HR-Dashboard-MySQL-PowerBI
+# HR-Dashboard-MySQL-PowerBI
 
 ![Aspose Words a39d181d-e672-428d-a1aa-f8adea018111 001](https://github.com/Nithin9910/HR-Dashboard/assets/108409734/263082bd-a3e0-48b3-9c9a-7959beeba2c1)
 
 
 
-\## Data Used
+## Data Used
 
 Data - HR Data with over 22000 rows from the year 2000 to 2020.
 
