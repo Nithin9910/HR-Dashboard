@@ -1,7 +1,7 @@
 ﻿
 \# HR-Dashboard-MySQL-PowerBI
 
-![](Aspose.Words.a39d181d-e672-428d-a1aa-f8adea018111.001.png)
+
 
 \## Data Used
 
